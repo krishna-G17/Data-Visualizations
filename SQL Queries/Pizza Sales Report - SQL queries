@@ -1,1 +1,10 @@
+Problem Statement: 
+Analyze Key Indicators for pizza sales data to gain insights into business performance. 
+
+KPI's (Potential): 
+1. Total Revenue: Sum of total price of all pizza orders
+2. Average order value: Average amount spent per order. Calculation: total_revenue/total_#_orders
+3. Total Pizzas sold: sum of quantities of all pizzas sold. 
+4. Total orders: total number of orders placed. 
+5. average pizzas per order: average number of pizzas sold per order. calculation: total_#_pizzas_sold/ total_#_orders
 
